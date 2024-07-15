@@ -1,0 +1,17 @@
+{
+  "name": "com.amariliscreation.statetracker",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib StateTracker",
+  "description": "This Library for using AmarilisLib StateTracker in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "StateTracker",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}
